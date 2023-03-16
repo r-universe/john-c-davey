@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "autoMFA"]
+	path = autoMFA
+	url = https://github.com/john-c-davey/automfa
+	shallow = true
+	registered = true
